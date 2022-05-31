@@ -16,4 +16,4 @@ We've also built a starter notebook for you that uses TensorFlow Decision Forest
 Good luck and have fun!
 Acknowledgments
 
-Photo by Clarisse Croset on Unsplash.
+
